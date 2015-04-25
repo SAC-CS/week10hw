@@ -13,3 +13,5 @@ public class diceMainClass {
 		
 	}
 }
+
+// Good, but please name your class better, and provide comments for your code.
